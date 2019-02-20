@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week1 Sterile Hood
+title: Week #1 Sterile Hood
 ---
 
 My sterile hood design is based on BioHack Academy's design below.
@@ -15,5 +15,13 @@ My sterile hood design is based on BioHack Academy's design below.
 Ikea range hood I was able to buy from my local ikea was LUFTIG and the fan motor was screwed on the main structure of hood. So I have to took it out. Also the largest HEPA filter that was available in my local hardware store was size D (345 x 300 x 36mm). So I designed my sterile hood based on mainly these two factors.
 
 ![]({{ juneyong-lee.github.io }}/images/Sterile Hood 1.jpg)
+![]({{ juneyong-lee.github.io }}/images/Sterile Hood 2.jpg)
+![]({{ juneyong-lee.github.io }}/images/Sterile Hood 3.jpg)
+![]({{ juneyong-lee.github.io }}/images/Sterile Hood 4.jpg)
+![]({{ juneyong-lee.github.io }}/images/Sterile Hood 5.jpg)
+![]({{ juneyong-lee.github.io }}/images/Sterile Hood 6.jpg)
+![]({{ juneyong-lee.github.io }}/images/Sterile Hood 7.jpg)
+![]({{ juneyong-lee.github.io }}/images/Sterile Hood 8.jpg)
+![]({{ juneyong-lee.github.io }}/images/Sterile Hood 9.jpg)
 
 
