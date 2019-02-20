@@ -10,4 +10,4 @@ But Ikea range hood I was able to buy from my local ikea was LUFTIG (Vented extr
 The fan was screwed on the main structure of hood. So I took it out.
 
 
-![an image alt text]({{ site.baseurl }}/images/Sterile Hood 1.jpg "")
+![an image alt text]({{ site.baseurl }}/images/Sterile Hood 1.jpg "Sterile Hood 1")
