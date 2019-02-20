@@ -1,8 +1,5 @@
 
 
-# Week1 Sterile Hood
-
-## Subtitle
 
 My sterile hood design is based on BioHack Academy's design below.
 https://github.com/biohackacademy/BHA_SterileHood<br>
