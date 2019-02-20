@@ -38,5 +38,5 @@ Hot glue gun to seal any edges for better air flow
 ![]({{ juneyong-lee.github.io }}/images/Sterile Hood 8.jpg)
 
 ![]({{ juneyong-lee.github.io }}/images/Sterile Hood 9.jpg)
-
+Waiting for spring...
 
