@@ -26,7 +26,7 @@ Ikea range hood LUFTIG
 Laser cutting 5mm (1/4in) Birch Plywood
   
 ![]({{ juneyong-lee.github.io }}/images/Sterile Hood 3.jpg)
-Rignt and back side
+Right and back side
   
 ![]({{ juneyong-lee.github.io }}/images/Sterile Hood 5.jpg)
 Work area
