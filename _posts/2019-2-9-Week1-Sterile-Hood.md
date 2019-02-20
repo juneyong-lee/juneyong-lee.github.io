@@ -20,29 +20,37 @@ The air flow is not so fast. I'm considering a better fan from Ikea (225CFM) and
 ![]({{ juneyong-lee.github.io }}/images/Sterile Hood 1.jpg)
 Ikea range hood LUFTIG
 <BR>
+  
 ![]({{ juneyong-lee.github.io }}/images/Sterile Hood 2.jpg)
 Laser cutting 5mm (1/4in) Birch Plywood
 <BR>
+  
 ![]({{ juneyong-lee.github.io }}/images/Sterile Hood 3.jpg)
 Rignt and back side
 <BR>
+  
 ![]({{ juneyong-lee.github.io }}/images/Sterile Hood 4.jpg)
 Left and front side
 <BR>
+  
 ![]({{ juneyong-lee.github.io }}/images/Sterile Hood 5.jpg)
 Work area
 <BR>
+  
 ![]({{ juneyong-lee.github.io }}/images/Sterile Hood 6.jpg)
 Top view without the cover panel
 <BR>
+  
 ![]({{ juneyong-lee.github.io }}/images/Sterile Hood 7.jpg)
 Hot glue gun to seal any edges for better air flow
 <BR>
+  
 ![]({{ juneyong-lee.github.io }}/images/Sterile Hood 8.jpg)
 <BR>
+  
 Can't wait to do a contamination test!!
-
 <BR>
+  
 ![]({{ juneyong-lee.github.io }}/images/Sterile Hood 9.jpg)
 Waiting for spring...
 <BR>
