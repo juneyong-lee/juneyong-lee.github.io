@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week #1 Sterile Hood
+title: Week1 Sterile Hood
 ---
 
 My sterile hood design is based on BioHack Academy's design below.
