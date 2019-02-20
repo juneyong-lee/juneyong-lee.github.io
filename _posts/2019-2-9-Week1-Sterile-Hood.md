@@ -3,6 +3,8 @@ layout: post
 title: Week1 Sterile Hood
 ---
 
+![]({{ juneyong-lee.github.io }}/images/Sterile Hood 4.jpg)
+
 My sterile hood design is based on BioHack Academy's design below.
 <https://github.com/biohackacademy/BHA_SterileHood>
 
@@ -25,9 +27,6 @@ Laser cutting 5mm (1/4in) Birch Plywood
   
 ![]({{ juneyong-lee.github.io }}/images/Sterile Hood 3.jpg)
 Rignt and back side
-  
-![]({{ juneyong-lee.github.io }}/images/Sterile Hood 4.jpg)
-Left and front side
   
 ![]({{ juneyong-lee.github.io }}/images/Sterile Hood 5.jpg)
 Work area
