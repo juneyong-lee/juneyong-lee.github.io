@@ -15,7 +15,7 @@ Materials
 My sterile hood design is based on BioHack Academy's design below.
 <https://github.com/biohackacademy/BHA_SterileHood>
 
-A range hood I found from my local Ikea store was LUFTIG and the fan motor was screwed on the body of hood. So I had to take it out. Also the largest HEPA filter that was available in my local hardware store was size D (345 x 300 x 36mm). So I designed my sterile hood based on mainly these two factors. I used wood glue for all of the plywood panels except the top/cover panel. It's held by M3 screws so that I could access inside. For finishing, a coat of Shellac was sprayed and light sandeding was applied with 400 grit sand papers.
+A range hood I found from a local Ikea store was LUFTIG. The fan motor was screwed on the body of hood and I took the fan out. Also the largest available HEPA filter was "size D" (345 x 300 x 36mm). I designed my sterile hood based on mainly these two factors. I used wood glue for all of the plywood panels except the top/cover panel. It's held by M3 screws so that I could access inside. For finishing, a coat of Shellac was sprayed and light sandeding was applied with 400 grit sand papers.
 
 The air flow is not so great. I'm considering getting a better fan from Ikea (225CFM) and also filling in some area near the fan to create better air flow. 
 
