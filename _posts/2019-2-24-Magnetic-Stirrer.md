@@ -5,6 +5,7 @@ title: Magnetic Stirrer
 
 ![]({{ juneyong-lee.github.io }}/images/Magnetic Stirrer01.jpg)
 
+<BR>
 Materials
 - 1/4 in. x 4 ft. x 8 ft. PureBond Birch Plywood [Homedepot](https://www.homedepot.com/p/Columbia-Forest-Products-1-4-in-x-4-ft-x-8-ft-PureBond-Birch-Plywood-165891/100092485)
 - 6 in. x 18 in. 22-Gauge Aluminum Metal Sheet [Homedepot](https://www.homedepot.com/p/Everbilt-6-in-x-18-in-22-Gauge-Aluminum-Metal-Sheet-801487/204225785)
@@ -31,18 +32,23 @@ Materials
 My design is based on BioHack Academy's design below.
 <http://biohackacademy.github.io/bha6/class/2/>
 <BR>
+<BR>
 
 ![]({{ juneyong-lee.github.io }}/images/Magnetic Stirrer02.jpg) <BR>
 Tesing out the electorics. The blades are all removed and 3 of N48 magnets are stacked and gluded on each end of fan's turning body.
+<BR>
 
 ![]({{ juneyong-lee.github.io }}/images/Magnetic Stirrer03.jpg) <BR>
 Laser cutting 5mm (1/4in) Birch Plywood. Masking tape is protecting the surface from burn marks.
+<BR>
 
 ![]({{ juneyong-lee.github.io }}/images/Magnetic Stirrer04.jpg) <BR>
 #6 Machine Screws are used for the bottom panel and wood glue for the rest panels.
+<BR>
   
 ![]({{ juneyong-lee.github.io }}/images/Magnetic Stirrer05.jpg) <BR>
 After light coat of Danish Oil.
+<BR>
   
 ![]({{ juneyong-lee.github.io }}/images/Magnetic Stirrer06.jpg) <BR>
 
@@ -52,17 +58,22 @@ After light coat of Danish Oil.
 
 ![]({{ juneyong-lee.github.io }}/images/Magnetic Stirrer07.jpg) <BR>
 22-Gauge Aluminum Metal Sheet covers the top and the heating pad is taped with a heat resistant tape. The heating pad is getting 12v at about 1.3A (15.6W) and gets about 110°C. But in my testing, the surface of aluminum sheet got 58°C at 5 min mark, 64°C at 10 min, and 67°C at 15 min.
+<BR>
 
 ![]({{ juneyong-lee.github.io }}/images/Magnetic Stirrer09.jpg) <BR>
 Front view
+<BR>
 
 ![]({{ juneyong-lee.github.io }}/images/Magnetic Stirrer10.jpg) <BR>
 Right side
+<BR>
 
 ![]({{ juneyong-lee.github.io }}/images/Magnetic Stirrer11.jpg) <BR>
 Left side
+<BR>
 
 ![]({{ juneyong-lee.github.io }}/images/Magnetic Stirrer12.jpg) <BR>
 Back side
+<BR>
 
 <BR>
