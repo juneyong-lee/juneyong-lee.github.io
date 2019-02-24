@@ -53,7 +53,7 @@ After light coat of Danish Oil.
 ![]({{ juneyong-lee.github.io }}/images/Magnetic Stirrer06.jpg) <BR>
 
 
-![]({{ juneyong-lee.github.io }}/images/Magnetic-Stirrer-Circuit.jpg) <BR>
+![]({{ juneyong-lee.github.io }}/images/Magnetic Stirrer Circuit.jpg) <BR>
 
 
 ![]({{ juneyong-lee.github.io }}/images/Magnetic Stirrer07.jpg) <BR>
