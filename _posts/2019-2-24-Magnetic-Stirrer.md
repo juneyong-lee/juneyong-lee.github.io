@@ -12,7 +12,7 @@ Materials
 - ARCTIC F8-80 mm Standard Case Fan [Amazon](https://www.amazon.com/gp/product/B002QVFN7G/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1)
 - PTFE magnetic stirrer mixer stir bar White Color [Amazon](https://www.amazon.com/gp/product/B00IVASAPI/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&psc=1)
 - Round Disc Block Magnets Cylinder Rare Earth Neodymium N52 N48 - 10mm x 3mm N48 [Ebay](https://www.ebay.com/itm/Lot-50-100-Pcs-Round-Disc-Block-Magnets-Cylinder-Rare-Earth-Neodymium-N52-N48/192608399976?ssPageName=STRK%3AMEBIDX%3AIT&var=492744901659&_trksid=p2060353.m2749.l2649)
-- Electric Heating Pad - 10cm x 5cm PID: 1481 [Adafruit](https://www.adafruit.com/product/1481) [Spec Sheet](https://cdn-shop.adafruit.com/datasheets/Ultra+Heating+Fabric.pdf)
+- Electric Heating Pad - 10cm x 5cm PID: 1481 [Adafruit](https://www.adafruit.com/product/1481), [Spec Sheet](https://cdn-shop.adafruit.com/datasheets/Ultra+Heating+Fabric.pdf)
 - Heat Resistant Tape [Amazon](https://www.amazon.com/gp/product/B0727Y2S7W/ref=ppx_yo_dt_b_asin_title_o05_s02?ie=UTF8&psc=1)
 - 19.5x11.5mm Silver Tone Top Potentiometer Volume Control Rotary Knobs 6mm Shaft Hole [Amazon](https://www.amazon.com/gp/product/B07K33QBPQ/ref=ppx_yo_dt_b_asin_title_o05_s01?ie=UTF8&psc=1)
 - POT 100 OHM 2W CERMET LINEAR (93R1A-R22-A05L-ND) [Digikey](https://www.digikey.com/product-detail/en/bourns-inc/93R1A-R22-A05L/93R1A-R22-A05L-ND/2564715)
@@ -57,7 +57,7 @@ After light coat of Danish Oil.
 
 
 ![]({{ juneyong-lee.github.io }}/images/Magnetic Stirrer07.jpg) <BR>
-22-Gauge Aluminum Metal Sheet covers the top and the heating pad is taped with a heat resistant tape. The heating pad is getting 12v at about 1.3A (15.6W) and gets about 110°C. But in my testing, the surface of aluminum sheet got 58°C at 5 min mark, 64°C at 10 min, and 67°C at 15 min.
+22-Gauge Aluminum Metal Sheet covers the top and the heating pad is taped under the aluminum sheet with a heat resistant tape. The heating pad is getting 12v at about 1.3A (15.6W) and gets about 110°C. But in my testing, the surface of aluminum sheet gets 58°C at 5 min mark, 64°C at 10 min, and 67°C at 15 min.
 <BR>
 
 ![]({{ juneyong-lee.github.io }}/images/Magnetic Stirrer09.jpg) <BR>
