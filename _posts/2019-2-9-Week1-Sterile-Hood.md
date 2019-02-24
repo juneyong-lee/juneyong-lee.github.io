@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week1 Sterile Hood
+title: Sterile Hood
 ---
 
 ![]({{ juneyong-lee.github.io }}/images/Sterile Hood 4.jpg)
