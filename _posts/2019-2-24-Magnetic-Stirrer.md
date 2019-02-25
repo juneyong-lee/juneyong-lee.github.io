@@ -35,7 +35,7 @@ My design is based on BioHack Academy's design below.
 <BR>
 
 ![]({{ juneyong-lee.github.io }}/images/Magnetic Stirrer02.jpg) <BR>
-Tesing out the electorics. The blades are all removed and 3 of N48 magnets are stacked and gluded on each end of fan's turning body.
+Testing out the electorics. The fan's blades are all removed and 3 of N48 magnets are stacked and glued on each end of fan's turning body.
 <BR>
 
 ![]({{ juneyong-lee.github.io }}/images/Magnetic Stirrer03.jpg) <BR>
@@ -43,11 +43,11 @@ Laser cutting 5mm (1/4in) Birch Plywood. Masking tape is protecting the surface 
 <BR>
 
 ![]({{ juneyong-lee.github.io }}/images/Magnetic Stirrer04.jpg) <BR>
-#6 Machine Screws are used for the bottom panel and wood glue for the rest panels.
+#6 Machine Screws are used for the bottom panel and wood glue for the rest of panels.
 <BR>
   
 ![]({{ juneyong-lee.github.io }}/images/Magnetic Stirrer05.jpg) <BR>
-After light coat of Danish Oil.
+After a light coat of Danish Oil.
 <BR>
   
 ![]({{ juneyong-lee.github.io }}/images/Magnetic Stirrer06.jpg) <BR>
