@@ -14,7 +14,7 @@ Materials
 Finally my contamination test is done. I followed [this instruction](http://biohackacademy.github.io/bha6/class/2/contamination-test/).
 ![]({{ juneyong-lee.github.io }}/images/Autoclace.jpg) <BR> 
 
-I mixed 4.6g of Nutrient Agar with 200ml of distilled water and then autoclaved in a pressure cooker for more than 20 min. Maybe I purchased too big size pressure cooker/canner, [Amazon](https://www.amazon.com/gp/product/B000QJJ9NY/ref=ppx_yo_dt_b_asin_title_o00_s03?ie=UTF8&psc=1). It took more than an hour to get to the about 10 psi even though I intended to bring it up to 15 psi. 
+I mixed 4.6g of Nutrient Agar with 200ml of distilled water and then autoclaved in a pressure cooker for more than 20 min. The pressure cooker/canner (16-Quart) I purchased from [Amazon](https://www.amazon.com/gp/product/B000QJJ9NY/ref=ppx_yo_dt_b_asin_title_o00_s03?ie=UTF8&psc=1) is probably too big. It took more than an hour to get to the about 10 psi even though I intended to bring it up to 15 psi. But it worked in the end.
 
 I left one petri dish on top of my work area for 30 min uncovered and another one inside of running [sterile hood](https://juneyong-lee.github.io/Week1-Sterile-Hood/) for 30 min uncovered.
 
