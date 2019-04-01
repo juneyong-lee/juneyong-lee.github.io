@@ -20,6 +20,6 @@ The one petri dish was left uncovered for 30 min inside of running [sterile hood
 
 ![]({{ juneyong-lee.github.io }}/images/Test.jpg) <BR> 
 
-The sterile hood one on the left came out clean and work area one one the right had two molds.
+The sterile hood one on the left came out clean and the work area petri dish on the right had two molds.
 
 <BR>
