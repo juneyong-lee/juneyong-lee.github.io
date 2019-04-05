@@ -62,6 +62,8 @@ After a light coat of Danish Oil.
   
 22-Gauge Aluminum Metal Sheet covers the top and the heating pad is taped under the aluminum sheet with a heat resistant tape. The heating pad is getting 12v at about 1.3A (15.6W) and gets about 110°C. But in my testing, the surface of aluminum sheet gets 58°C at 5 min mark, 64°C at 10 min, and 67°C at 15 min.
 <BR>
+  
+<BR>
 
 ![]({{ juneyong-lee.github.io }}/images/Magnetic Stirrer09.jpg) <BR>
 Front view
