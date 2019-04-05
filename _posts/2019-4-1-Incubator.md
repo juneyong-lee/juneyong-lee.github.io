@@ -46,7 +46,7 @@ Heating Element
 <BR>
 40mm cooling fan(12v, 2.8W) runs very fast and loud. In order to slow it down, LM2596 Step Down Module is used to drop down the voltage to about 9v and it is directly connected to 12v DC power source. I plan to use another MOSFET to vary the fan speed depending on temperature. Four aluminum heat sinks are attached to the heating element to dissipate the heat faster and it's been very effective. The ground of heat element is connected to the drain of MOSTFET. Depending on the temperature, Arduino can control it from 0 to 255.
 
-![]({{ juneyong-lee.github.io }}/images/Incubator4.jpg) <BR>
+![]({{ juneyong-lee.github.io }}/images/Incubator6.jpg) <BR>
 
 ![]({{ juneyong-lee.github.io }}/images/Incubator5.jpg) <BR>
   
