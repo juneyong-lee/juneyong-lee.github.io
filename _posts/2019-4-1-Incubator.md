@@ -38,6 +38,7 @@ Here is my version.
 ![]({{ juneyong-lee.github.io }}/images/Incubator8.jpg) <BR> 
 
 Main incubator
+<BR>
 This insulated foam shipping container can hold heat very well. I was going to make a door with clear acrylic sheet but using the cover it came with was the best way to retain the heat inside. The low heat setting on hot glue gun worked well when attaching rails for shelves, while the high setting melt the foam. I used an expanded metal sheet as shelf but sometimes it got too hot. I may change it to plastic shelf instead later.
 
 <BR>
@@ -48,6 +49,7 @@ This insulated foam shipping container can hold heat very well. I was going to m
 ![]({{ juneyong-lee.github.io }}/images/Incubator6.jpg) <BR>
 
 Heating element
+<BR>
 40mm cooling fan(12v, 2.8W) runs very fast and loud. In order to slow it down, LM2596 Step Down Module is used to drop down the voltage to about 9v and it is directly connected to 12v DC power source. I plan to use another MOSFET to vary the fan speed depending on temperature. Four aluminum heat sinks are attached to the heating element to dissipate the heat faster and I found it very effective. The ground of heat element is connected to the drain of MOSTFET. Depending on the temperature, Arduino can control it from 0 to 255.
 
 <BR>
@@ -56,6 +58,7 @@ Heating element
 ![]({{ juneyong-lee.github.io }}/images/Incubator7.jpg) <BR>
 
 Thermometer
+<BR>
 DHT22 is a reliable thermometer. More information and tutorial on [Adafruit’s page.](https://learn.adafruit.com/dht) The left pin goes to Arduino 5v. The second pin goes to Arduino D6 and the right pin goes to ground. 10K resistor connects between 5v and signal of DHT22.
 
 <BR>
@@ -66,6 +69,7 @@ DHT22 is a reliable thermometer. More information and tutorial on [Adafruit’s 
 ![]({{ juneyong-lee.github.io }}/images/Incubator4.jpg) <BR>
 
 Main control box
+<BR>
 It’s attached to the right side of incubator and there is a small hole for wires. Red and Yellow Quad Alphanumeric Displays are connected to one I2C Backpack from Adafruit. Its tutorial is available on their [site.](https://learn.adafruit.com/adafruit-led-backpack/0-54-alphanumeric) The backpack’s VCC and Vi2c connected to Arduino 5v, CLK to A5, DAT to A4 pin of Arduino, and GND is to the common ground. The red display shows current temperature from DHT22 and the yellow shows target temperature that user can set with rotary encoder. If current temp is higher than target, MOSTFET sends 0 to the heating element. If target is set higher than current, then MOSTFET send up to 255 depending on the temperature difference. The rotary encoder’s pin A goes to Arduino D2 and pin B goes to D3. The ground pin goes to the common ground. 
 
 <BR>
