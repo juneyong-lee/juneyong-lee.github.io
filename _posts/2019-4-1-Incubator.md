@@ -26,8 +26,7 @@ Materials
 
 <BR>
 
-The original incubator design came from [this instruction.](http://biohackacademy.github.io/bha6/class/3) 
-Here is my version.
+
 ![]({{ juneyong-lee.github.io }}/images/Incubator2.jpg) <BR> 
 
 ![]({{ juneyong-lee.github.io }}/images/Incubator_bb.jpg) <BR>
@@ -79,3 +78,5 @@ Because the heating element uses up to 28W, sometimes MOSTFET got dangerously ho
 
 ![]({{ juneyong-lee.github.io }}/images/Incubator10.jpg) <BR>
 
+<BR>
+The original incubator design came from [this instruction.](http://biohackacademy.github.io/bha6/class/3) 
