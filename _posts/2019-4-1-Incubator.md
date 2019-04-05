@@ -37,7 +37,7 @@ Here is my version.
 
 ![]({{ juneyong-lee.github.io }}/images/Incubator8.jpg) <BR> 
 
-Main incubator
+<bold>Main incubator</bold>
 <BR>
 This insulated foam shipping container can hold heat very well. I was going to make a door with clear acrylic sheet but using the cover it came with was the best way to retain the heat inside. The low heat setting on hot glue gun worked well when attaching rails for shelves, while the high setting melt the foam. I used an expanded metal sheet as shelf but sometimes it got too hot. I may change it to plastic shelf instead later.
 
