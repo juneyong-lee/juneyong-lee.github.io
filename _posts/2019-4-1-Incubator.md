@@ -74,11 +74,12 @@ Because the heating element uses up to 28 Watt, sometimes MOSTFET got dangerousl
 
 ![]({{ juneyong-lee.github.io }}/images/Incubator10.jpg) <BR>
 
-
 <BR>
-[Arduino code](https://github.com/juneyong-lee/juneyong-lee.github.io/blob/master/projects/making/incubator/Incubator.ino)
-[Adobe Illustrator file 1](https://github.com/juneyong-lee/juneyong-lee.github.io/blob/master/projects/making/incubator/Incubator1 Final.ai)
+<BR>
+[Arduino code](https://github.com/juneyong-lee/juneyong-lee.github.io/blob/master/projects/making/incubator/Incubator.ino)<BR>
+[Adobe Illustrator file 1](https://github.com/juneyong-lee/juneyong-lee.github.io/blob/master/projects/making/incubator/Incubator1 Final.ai)<BR>
 [Adobe Illustrator file 2](https://github.com/juneyong-lee/juneyong-lee.github.io/blob/master/projects/making/incubator/Incubator2 Final.ai)
   
+<BR>
 <BR>
 The original incubator design came from [this instruction.](http://biohackacademy.github.io/bha6/class/3) 
