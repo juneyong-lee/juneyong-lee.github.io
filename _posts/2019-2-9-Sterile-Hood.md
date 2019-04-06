@@ -6,10 +6,10 @@ title: "Making #1; Sterile Hood"
 ![]({{ juneyong-lee.github.io }}/images/Sterile Hood 4.jpg)
 
 Materials
-- 1/4 in. x 4 ft. x 8 ft. PureBond Birch Plywood [Homedepot](https://www.homedepot.com/p/Columbia-Forest-Products-1-4-in-x-4-ft-x-8-ft-PureBond-Birch-Plywood-165891/100092485)
+- 1/4 in. x 4 ft. x 8 ft. PureBond Birch Plywood (actual thickness 5mm) [Homedepot](https://www.homedepot.com/p/Columbia-Forest-Products-1-4-in-x-4-ft-x-8-ft-PureBond-Birch-Plywood-165891/100092485)
 - Ikea range hood LUFTIG (190CFM) [Ikea](https://www.ikea.com/us/en/catalog/products/20222533/)
-- Filtrete True HEPA Air Purifier Filter [Lowes](https://www.lowes.com/pd/Filtrete-True-HEPA-Air-Purifier-Filter/1000772692)
-- 8 ft. 16/2 Power Tool Replacement Cord
+- Filtrete True HEPA Air Purifier Filter, size D [Lowes](https://www.lowes.com/pd/Filtrete-True-HEPA-Air-Purifier-Filter/1000772692)
+- 8 ft. 16/2 Power Tool Replacement Cord [Homedepot](https://www.homedepot.com/p/Husky-8-ft-16-2-Power-Tool-Replacement-Cord-AW62633/100661451)
 - Phillips Pan-Head Machine Screws, Hex Nuts, and washer (M5 and M3)
 <BR>
 [Adobe Illustrator file](https://github.com/juneyong-lee/juneyong-lee.github.io/blob/master/projects/making/sterile hood/SterileHood Final.ai)
