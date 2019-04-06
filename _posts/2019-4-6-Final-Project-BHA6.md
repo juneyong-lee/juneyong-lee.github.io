@@ -3,6 +3,7 @@ layout: post
 title: "Experiment #2; Microbe Portraiture"
 ---
 
+<BR>
 Biohack Academy #6, Final Presentation on April 2, 2019
 
 **Microbe Portraiture**
@@ -11,27 +12,28 @@ There are millions of microbes that live on our skin but they are invisible. In 
 
 Materials
 - Nutrient Agar (Ager 65.2%, Peptones 21.7%, Beef Extract 13%) [Carolina Biological Supply Company](https://www.carolina.com/dehydrated-media/nutrient-agar-dehydrated-medium-100-g/785300.pr?question=785300)
-- Yeast Malt Agar
+- Yeast Malt Agar [Carolina Biological Supply Company](https://www.carolina.com/prepared-biological-media/yeast-malt-agar-prepared-media-bottle-125-ml/777200.pr?question=777200)
 - Distilled Water
 - Petri Dish
 
+<BR>
 **Test #1 – 1, Cheek**
 
-![]({{ juneyong-lee.github.io }}/images/Final1.jpg) <BR> 
+![]({{ juneyong-lee.github.io }}/images/Final2.jpg) <BR> 
 
-Both plates had minimum amount microbes. It has been in an incubator for more than 24 hours at 30°C.
+Both plates had minimum amount of microbes. It has been in an incubator for more than 24 hours at 30°C.
 
-![]({{ juneyong-lee.github.io }}/images/Final1_1.jpg) <BR> 
+![]({{ juneyong-lee.github.io }}/images/Final2_1.jpg) <BR> 
 
 Detail shot of Nutrient Agar plate
 
 **Test #1 – 2, Lips**
 
-![]({{ juneyong-lee.github.io }}/images/Final2.jpg) <BR> 
+![]({{ juneyong-lee.github.io }}/images/Final1.jpg) <BR> 
 
 Both plates had minimum amount microbes. It has been in an incubator for more than 24 hours at 30°C. After “kissing” first plate on the left, I unconsciously wiped and cleaned my lips. As a result, the plate on the right doesn’t have much growth.
 
-![]({{ juneyong-lee.github.io }}/images/Final2_1.jpg) <BR> 
+![]({{ juneyong-lee.github.io }}/images/Final1_1.jpg) <BR> 
 
 Detail shot of Yeast Malt plate. Shape of my lips are clear through microbes.
 
