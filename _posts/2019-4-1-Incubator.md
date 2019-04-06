@@ -18,7 +18,7 @@ Materials
 - DHT22 temperature-humidity sensor + extras [Adafruit](https://www.adafruit.com/product/385)
 - Quad Alphanumeric Display - 0.54" Digits w/ I2C Backpack, Red and Yellow [Adafruit](https://www.adafruit.com/product/1911)
 - Rocker Switch, 16A 125V (450-1810-ND) [Digikey](https://www.digikey.com/product-detail/en/te-connectivity-alcoswitch-switches/PRASA1-16F-BB0BW/450-1810-ND/529580)
-- Power Jack 2.1 X 5.5MM SOLDER (839-1291-ND) [Digikey](https://www.digikey.com/product-detail/en/tensility-international-corp/54-00063/839-1291-ND/6206244)
+- DC Barrel Power Jack 2.1 X 5.5MM (839-1291-ND) [Digikey](https://www.digikey.com/product-detail/en/tensility-international-corp/54-00063/839-1291-ND/6206244)
 - Power Adapter DC 12V 3A, 36W Max [Amazon](https://www.amazon.com/gp/product/B07G47GFGV/) 
 - LM2596 Step Down Module [ebay](https://www.ebay.com/itm/LM2596S-Step-Down-Module-DC-3V-40V-to1-5v-35V-3-3V-5V-12V-3A-Voltage-Regulator/173427982213)
 - Plain Expanded Metal Sheet, 24 x 1/2 x 12 in [Homedepot](https://www.homedepot.com/p/Everbilt-24-in-x-1-2-in-x-12-in-Plain-Expanded-Metal-Sheet-801417/204225783)
