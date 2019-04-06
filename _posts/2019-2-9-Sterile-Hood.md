@@ -14,6 +14,8 @@ Materials
 <BR>
 [Adobe Illustrator file](https://github.com/juneyong-lee/juneyong-lee.github.io/blob/master/projects/making/sterile hood/SterileHood Final.ai)
 <BR>
+
+<BR>
 My sterile hood design is based on BioHack Academy's design below.
 <https://github.com/biohackacademy/BHA_SterileHood>
 
