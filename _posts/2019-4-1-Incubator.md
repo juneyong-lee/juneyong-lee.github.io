@@ -24,9 +24,14 @@ Materials
 - Plain Expanded Metal Sheet, 24 x 1/2 x 12 in [Homedepot](https://www.homedepot.com/p/Everbilt-24-in-x-1-2-in-x-12-in-Plain-Expanded-Metal-Sheet-801417/204225783)
 - PureBond Birch Plywood 1/4 in x 4 ft x 8 ft (actual thickness 5mm) [Homedepot](https://www.homedepot.com/p/Columbia-Forest-Products-1-4-in-x-4-ft-x-8-ft-PureBond-Birch-Plywood-165891/100092485)
 
+
 <BR>
-
-
+[Arduino code](https://github.com/juneyong-lee/juneyong-lee.github.io/blob/master/projects/making/incubator/Incubator.ino)<BR>
+[Adobe Illustrator file 1](https://github.com/juneyong-lee/juneyong-lee.github.io/blob/master/projects/making/incubator/Incubator1 Final.ai)<BR>
+[Adobe Illustrator file 2](https://github.com/juneyong-lee/juneyong-lee.github.io/blob/master/projects/making/incubator/Incubator2 Final.ai)
+<BR>
+<BR>
+    
 ![]({{ juneyong-lee.github.io }}/images/Incubator2.jpg) <BR> 
 
 ![]({{ juneyong-lee.github.io }}/images/Incubator_bb.jpg) <BR>
@@ -73,12 +78,6 @@ This box is attached to the right side of the main compartment and there is a sm
 Because the heating element uses up to 28 Watt, sometimes MOSTFET got dangerously hot and melted a breadboard and jumper cable. When I used a PCB board for final version, I used wires that can handle higher wattages and temperatures. At the same time, I plan to add some of the safety measures such as a temperature activated kill switch in the future.
 
 ![]({{ juneyong-lee.github.io }}/images/Incubator10.jpg) <BR>
-
-<BR>
-<BR>
-[Arduino code](https://github.com/juneyong-lee/juneyong-lee.github.io/blob/master/projects/making/incubator/Incubator.ino)<BR>
-[Adobe Illustrator file 1](https://github.com/juneyong-lee/juneyong-lee.github.io/blob/master/projects/making/incubator/Incubator1 Final.ai)<BR>
-[Adobe Illustrator file 2](https://github.com/juneyong-lee/juneyong-lee.github.io/blob/master/projects/making/incubator/Incubator2 Final.ai)
   
 <BR>
 <BR>
