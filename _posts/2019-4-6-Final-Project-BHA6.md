@@ -27,6 +27,7 @@ Both plates had minimum amount of microbes. It has been in an incubator for more
 
 Detail shot of Nutrient Agar plate
 
+<BR> 
 **Test #1 – 2, Lips**
 
 ![]({{ juneyong-lee.github.io }}/images/Final1.jpg) <BR> 
@@ -37,40 +38,49 @@ Both plates had minimum amount microbes. It has been in an incubator for more th
 
 Detail shot of Yeast Malt plate. Shape of my lips are clear through microbes.
 
+<BR> 
+  
 After first testing, my incubator stopped working but I finished wirings and internals for second testing.
 
 ![]({{ juneyong-lee.github.io }}/images/Incubator1.jpg) <BR> 
 
+<BR> 
 **Test #2 – 1, Cheek**
 
 Only Nutrient Agar plates were used for second testing. The incubator was set at 37°C for 24 hours. Also I intentionally didn’t wash my face for more than 24 hours.
 
 ![]({{ juneyong-lee.github.io }}/images/Final3_Cheek.jpg) <BR> 
 
-Right side of my face on the left and left side on the right. Both had more visible growth than Test #1. Especially there is different type of microbe on the right plate.
+Right side of my face on the left and left side on the right. Both had more visible growth than Test #1. Especially there is a different type of microbe on the right plate.
 
+<BR> 
 **Test #2 – 2, Lips**
 
 ![]({{ juneyong-lee.github.io }}/images/Final4_Kiss.jpg) <BR> 
 
+<BR> 
 **Test #2 – 3, Ear**
 
 ![]({{ juneyong-lee.github.io }}/images/Final5_Ear.jpg) <BR> 
 
+<BR> 
 **Test #2 – 4, Hair**
 
 ![]({{ juneyong-lee.github.io }}/images/Final6_Hair.jpg) <BR> 
 
+<BR> 
 **Test #2 – 5, Tongue**
 
 ![]({{ juneyong-lee.github.io }}/images/Final6_Tongue.jpg) <BR> 
 
+<BR> 
 **Test #2 – 6, Forehead**
 
 ![]({{ juneyong-lee.github.io }}/images/Final7_Forehead.jpg) <BR> 
 
 Forehead area had most growth than any other areas of my face. I think because forehead tends to be oily area, maybe the area is prone to host more microbes than other areas.
 
+<BR> 
 ![]({{ juneyong-lee.github.io }}/images/PetriDish_Lee.jpg) <BR> 
 
 Detail shot
