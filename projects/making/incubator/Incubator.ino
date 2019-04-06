@@ -1,6 +1,3 @@
-// Demo the quad alphanumeric display LED backpack kit
-// scrolls through every character, then scrolls Serial
-// input onto the display
 
 #include <Wire.h>
 #include <Adafruit_GFX.h>
