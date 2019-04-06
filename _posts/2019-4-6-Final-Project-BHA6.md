@@ -40,7 +40,7 @@ Detail shot of Yeast Malt plate. Shape of my lips are clear through microbes.
 
 <BR> 
   
-After first testing, my incubator stopped working but I finished wirings and internals for second testing.
+After first testing, my incubator stopped working but I managed to finish proper wirings and internals for second testing.
 
 ![]({{ juneyong-lee.github.io }}/images/Incubator1.jpg) <BR> 
 
@@ -78,7 +78,7 @@ Right side of my face on the left and left side on the right. Both had more visi
 
 ![]({{ juneyong-lee.github.io }}/images/Final7_Forehead.jpg) <BR> 
 
-Forehead area had most growth than any other areas of my face. I think because forehead tends to be oily area, maybe the area is prone to host more microbes than other areas.
+Forehead area had most growth than any other areas of my face. Maybe because forehead tends to be oily, I think this part is prone to host more microbes than other areas.
 
 <BR> 
 ![]({{ juneyong-lee.github.io }}/images/PetriDish_Lee.jpg) <BR> 
