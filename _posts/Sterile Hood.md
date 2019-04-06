@@ -11,7 +11,9 @@ Materials
 - Filtrete True HEPA Air Purifier Filter [Lowes](https://www.lowes.com/pd/Filtrete-True-HEPA-Air-Purifier-Filter/1000772692)
 - 8 ft. 16/2 Power Tool Replacement Cord
 - Phillips Pan-Head Machine Screws, Hex Nuts, and washer (M5 and M3)
-
+<BR>
+[Adobe Illustrator file](https://github.com/juneyong-lee/juneyong-lee.github.io/blob/master/projects/making/sterile hood/SterileHood Final.ai)
+<BR>
 My sterile hood design is based on BioHack Academy's design below.
 <https://github.com/biohackacademy/BHA_SterileHood>
 
