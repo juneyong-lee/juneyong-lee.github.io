@@ -23,7 +23,7 @@ Materials
 
 Both plates had minimum amount of microbes. It has been in an incubator for more than 24 hours at 30°C.
 
-![]({{ juneyong-lee.github.io }}/images/Final2_1.jpg) <BR> 
+![]({{ juneyong-lee.github.io }}/images/Final2_2.jpg) <BR> 
 
 Detail shot of Nutrient Agar plate
 
@@ -33,7 +33,7 @@ Detail shot of Nutrient Agar plate
 
 Both plates had minimum amount microbes. It has been in an incubator for more than 24 hours at 30°C. After “kissing” first plate on the left, I unconsciously wiped and cleaned my lips. As a result, the plate on the right doesn’t have much growth.
 
-![]({{ juneyong-lee.github.io }}/images/Final1_1.jpg) <BR> 
+![]({{ juneyong-lee.github.io }}/images/Final1_2.jpg) <BR> 
 
 Detail shot of Yeast Malt plate. Shape of my lips are clear through microbes.
 
@@ -67,7 +67,7 @@ Right side of my face on the left and left side on the right. Both had more visi
 
 **Test #2 – 6, Forehead**
 
-![]({{ juneyong-lee.github.io }}/images/Final7_ Forehead.jpg) <BR> 
+![]({{ juneyong-lee.github.io }}/images/Final7_Forehead.jpg) <BR> 
 
 Forehead area had most growth than any other areas of my face. I think because forehead tends to be oily area, maybe the area is prone to host more microbes than other areas.
 
