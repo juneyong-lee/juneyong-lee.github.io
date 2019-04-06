@@ -23,7 +23,7 @@ Materials
 
 Both plates had minimum amount of microbes. It has been in an incubator for more than 24 hours at 30°C.
 
-![]({{ juneyong-lee.github.io }}/images/Final2_2.jpg) <BR> 
+![]({{ juneyong-lee.github.io }}/images/Final1_2.jpg) <BR> 
 
 Detail shot of Nutrient Agar plate
 
@@ -32,9 +32,9 @@ Detail shot of Nutrient Agar plate
 
 ![]({{ juneyong-lee.github.io }}/images/Final1.jpg) <BR> 
 
-Both plates had minimum amount microbes. It has been in an incubator for more than 24 hours at 30°C. After “kissing” first plate on the left, I unconsciously wiped and cleaned my lips. As a result, the plate on the right doesn’t have much growth.
+Both plates had minimum amount microbes. It has been in an incubator for more than 24 hours at 30°C. After “kissing” first plate on the left, I unconsciously wiped and cleaned my lips. As a result, the plate on the right doesn’t have much growth at all.
 
-![]({{ juneyong-lee.github.io }}/images/Final1_2.jpg) <BR> 
+![]({{ juneyong-lee.github.io }}/images/Final2_2.jpg) <BR> 
 
 Detail shot of Yeast Malt plate. Shape of my lips are clear through microbes.
 
