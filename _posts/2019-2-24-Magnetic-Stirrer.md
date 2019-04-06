@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Magnetic Stirrer
+title: "Making #2; Magnetic Stirrer"
 ---
 
 ![]({{ juneyong-lee.github.io }}/images/Magnetic Stirrer01.jpg)
